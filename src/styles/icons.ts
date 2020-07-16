@@ -13,3 +13,4 @@ export { ArrowLeft } from 'styled-icons/heroicons-solid';
 export { Chat } from 'styled-icons/heroicons-outline';
 export { Retweet } from '@styled-icons/fa-solid/Retweet';
 export { ShareForward2 as Share } from '@styled-icons/remix-line';
+export { TwitterLogo } from '../components/TwitterLogo';
