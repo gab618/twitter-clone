@@ -17,5 +17,8 @@
         "titleBar.inactiveBackground": "#33a1f299",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#33A1F2"
+    "peacock.color": "#33A1F2",
+    "cSpell.words": [
+        "Ezreal"
+    ]
 }
