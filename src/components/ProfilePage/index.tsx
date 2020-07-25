@@ -26,7 +26,7 @@ const ProfilePage: React.FC = () => {
 
         <p>
           Olá eu sou o Gabriel, mais conhecido como{' '}
-          <a href="">@ezrealblindado</a>
+          <a href="https://github.com/gab618">@ezrealblindado</a>
         </p>
 
         <ul>
